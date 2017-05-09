@@ -65,7 +65,7 @@ You'll also need a **text editor**. If you don't already have one of your
 choice, I recommend installing [Sublime Text](https://www.sublimetext.com/)
 (it's available for Linux, Windows, and Mac).
 
-**Please install all software BEFORE comming to the course.** If you have any
+**Please install all software BEFORE coming to the course.** If you have any
 problems installing or don't know which version you need to download, get in touch.
 
 
